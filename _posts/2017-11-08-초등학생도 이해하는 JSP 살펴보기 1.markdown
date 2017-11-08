@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "초등학생도 이해하는 간단히 JSP 살펴보기"
+title:  "초등학생도 이해하는 JSP 살펴보기 1"
 date:   2017-11-08 08:43:59
 author: C-an
 categories: JSP
