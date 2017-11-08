@@ -345,7 +345,7 @@ JavaScript에 대한 더 자세한 내용은 [여기](https://opentutorials.org/
 ```
 나중에 웹 프로젝트를 하게 되면 Servlet이라고 하는 클래스에서 클라이언트의 요청을 받아 정보를 jsp에게 넘겨주게 됩니다. 그렇게 된다면 서버에서 위의 <%= %>는 그 회원의 알맞는 정보를 던져주게 되고 클라이언트는 <%= %>의 부분은 보이지 않고 단지 HTML형식의 파일로만 볼 수 있게되는 원리입니다.
 
-<img src="img/mvc-model.png" width="400px" height="400px">
+<img src="https://github.com/chanjungkim/chanjungkim.github.io/blob/master/_posts/img/mvc-model.png?raw=true" width="400px" height="400px">
 
 <%와 같은 태그는 Scriptlet[스크립트럿]이라고 불리는데요. 이 태그 안에는 Java를 사용할 수 있습니다. HTML문서 안에 스크립트럿으로 Java를 혼용하여 쓸 수있게 되는 것이죠.
 
