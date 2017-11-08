@@ -2,7 +2,7 @@
 layout: post
 title:  "이건 나의 첫번째글!"
 date:   2015-04-18 08:43:59
-author: Ben Centra
+author: C-an
 categories: Dummy
 ---
 
