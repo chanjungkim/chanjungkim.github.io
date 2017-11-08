@@ -19,14 +19,14 @@ categories: JSP
 
 # Review
 ### JSP 소개
-다음의 내용이 기억나지 않는다면 [지난 글](https://github.com/chanjungkim/chanjungkim.github.io/blob/master/blog/jsp/lec1.md)에서 확인해주시기 바랍니다.
+다음의 내용이 기억나지 않는다면 [지난 글](https://chanjungkim.github.io/jsp/2017/11/08/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EB%8F%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-JSP-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-1.html)에서 확인해주시기 바랍니다.
 * JSP란?
 * 우리가 설치했던 프로그램들의 이름은?
 * 우리가 진행하는 프로젝트의 파일 구성
 * *.jsp는 어디 폴더에서 생성하게 되나?
 * 'Hello World'를 출력하는 2가지 방법과 그 차이
 ### 자바
-다음의 내용이 기억나지 않는다면 [지난 글](https://github.com/chanjungkim/chanjungkim.github.io/blob/master/blog/jsp/lec2.md)에서 확인해주시기 바랍니다.
+다음의 내용이 기억나지 않는다면 [지난 글](https://chanjungkim.github.io/jsp/2017/11/08/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EB%8F%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-JSP-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-2.html)에서 확인해주시기 바랍니다.
 * 자바를 만든사람은? 왜 만들었을까?
 * JavaScript란 무엇인가?
 * 우리가 진행하는 Project 명은?
