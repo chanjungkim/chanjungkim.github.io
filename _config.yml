@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: chanjungskim@gmail.com
+name: Kim Chanjung
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -42,6 +42,7 @@ jekyll-archives:
 
 # Disqus comments
 # disqus_shortname: bencentra
+disqus_shortname: chanjungkim
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -51,9 +52,11 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: jsp
+    desc: "about jsp."
 
+  - cat: github
+    desc: "about github."
 # Social icons and sharing options
 #
 # Social settings are used in two places:
@@ -72,29 +75,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: 
+    url: 
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: Kim Chanjung
+    url: https://www.facebook.com/chanjungkim00
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: chanjungkim
+    url: https://github.com/chanjungkim
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Chanjung Kim
+    url: https://www.linkedin.com/in/chanjungkim/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -103,7 +106,7 @@ social:
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -124,7 +127,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
