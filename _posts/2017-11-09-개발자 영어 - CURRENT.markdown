@@ -3,7 +3,7 @@ layout: post
 title:  "개발자 영어 - CURRENT"
 date:   2017-11-09 16:35:59
 author: C-an
-categories: English Pronunciation
+categories: English_Pronunciation
 ---
 
 **current [커런트]**
