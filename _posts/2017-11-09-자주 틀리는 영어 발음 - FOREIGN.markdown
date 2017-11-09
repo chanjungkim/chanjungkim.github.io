@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "자주 틀리는 영어 발음 - FOREIGN"
+date:   2017-11-09 00:00:00
+author: C-an
+categories: English_Pronunciation
+---
+
+**foreign [포런]**
+
+<iframe width="150" height="150" src="https://www.youtube.com/embed/u58SCWhbI2Q" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+포른(괜찮음) 포레진(X) 폴진(X) 포레이즌(X) 포레긴(X)
+
+ref) foreigner [포러너(r)]
