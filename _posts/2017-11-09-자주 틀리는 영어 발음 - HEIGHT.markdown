@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "자주 틀리는 발음 - HEIGHT"
+title:  "자주 틀리는 영어 발음 - HEIGHT"
 date:   2017-11-09 17:15:59
 author: C-an
 categories: English_Pronunciation

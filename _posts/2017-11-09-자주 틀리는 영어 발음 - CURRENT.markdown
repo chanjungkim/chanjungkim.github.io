@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "자주 틀리는 발음 - CURRENT"
+title:  "자주 틀리는 영어 발음 - CURRENT"
 date:   2017-11-09 16:35:59
 author: C-an
 categories: English_Pronunciation
