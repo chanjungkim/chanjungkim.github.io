@@ -6,11 +6,11 @@ author: C-an
 categories: English_Pronunciation
 ---
 
-**alias [엘리어스]**
+**alias [에일리어스]**
 
 <iframe width="150" height="150" src="https://www.youtube.com/embed/dKGuzTiocxc" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-**복수:** aliases[엘리어시-ㅅ]
+**복수:** aliases[에일리어시-ㅅ]
 
 <iframe width="150" height="150" src="https://www.youtube.com/embed/UhkIBGClbsY" frameborder="0" gesture="media" allowfullscreen></iframe>
 
