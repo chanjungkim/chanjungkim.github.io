@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title:  "자주 틀리는 영어 발음 - OS X, iPhone X"
-date:   2017-11-09 00:00:00
+date:   2017-11-09 00:10:01
 author: C-an
 categories: English_Pronunciation
 ---
