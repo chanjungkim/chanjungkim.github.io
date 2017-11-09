@@ -57,6 +57,9 @@ descriptions:
 
   - cat: github
     desc: "about github."
+
+  - cat: english
+    desc: "about english."
 # Social icons and sharing options
 #
 # Social settings are used in two places:

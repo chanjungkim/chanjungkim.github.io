@@ -8,11 +8,11 @@ categories: English_Pronunciation
 
 **alias [엘리어스]**
 
-<a href="https://dict-dn.pstatic.net/naver/dic/naverdic/endic/pron/clear/us/012/012473.mp3?_lsu_sa_=3d98f054adcd36f6dc91017e3024acf50d7765b5a00f3f8461f2ea7a8b7267719e59a79a6685b474a9fd6d75932de08ed8bbc6c2e681544028de73d4eea8fe9c553ae1fb5bd8f4042863db77877b71ca">발음듣기</a>
+
 
 **복수:** aliases[엘리어시-ㅅ]
 
-<iframe width="945" height="480" src="https://www.youtube.com/embed/UhkIBGClbsY" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="150" height="150" src="https://www.youtube.com/embed/UhkIBGClbsY" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 알리아스(나쁘지 않음) 얼라이어스(X) 알라이어스(X)
 
