@@ -6,5 +6,5 @@ author: C-an
 categories: English_origin
 ---
 
-####TUPLE [튜플]####
+#### TUPLE [튜플] ####
 single, double, triple, quadruple, quintuple, sextuple, septuple, octuple, nonuple, decuple, centuple, ...에서 반복적으로 끝에 오는 tuple에서 왔다. 실제로 데이터베이스나 python에서 사용되며, 모음, 집합(DB에서는 속성의 모음)을 의미한다.
