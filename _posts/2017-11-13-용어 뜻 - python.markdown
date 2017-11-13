@@ -25,7 +25,7 @@ One of the group (Terry Jones I think) liked the name "Monty" because he felt it
 사전에 의하면,
 
 ```
-그리스 신화에서 'Apollo가 Delphi에서 퇴치한 거대한 뱀'인 **피톤**불리는 뱀
+그리스 신화에서 'Apollo가 Delphi에서 퇴치한 거대한 뱀'인 피톤이라 불리는 뱀
 ```
 
 으로 나오는데, 현재는 비단뱀, 비단구렁이, 거대한 구렁이 등의 뜻을 가지고 있다.
