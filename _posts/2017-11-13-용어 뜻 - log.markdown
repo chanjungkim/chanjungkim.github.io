@@ -1,0 +1,21 @@
+﻿---
+layout: post
+title:  "용어 뜻 - log"
+date:   2017-11-13 10:45:01
+author: C-an
+categories: English_origin
+---
+
+#### log [로-그, 라-그] ####
+
+
+무엇일이 있었는 가를 보여주는 기록을 보여주는 로그의 
+
+(특히 항해・운항・비행 등의) 일지[기록]
+
+** The captain keeps a log. **
+
+
+** The police log all phone calls. **
+
+경찰이 모든 통화는 일지에 기록을 한다.
