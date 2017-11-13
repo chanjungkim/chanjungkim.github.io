@@ -1,0 +1,33 @@
+﻿---
+layout: post
+title:  "용어 뜻 - python"
+date:   2017-11-13 13:54:01
+author: C-an
+categories: English_origin
+---
+
+#### python [파이썬] ####
+
+1991년 귀도 반 로섬(Guido Van Rossum)이 발표한 고급 프로그래밍 언어.
+
+사실 Python이란 이름은 귀도가 좋아하는 1983년도에 나온 코미디 <Monty Python's Flying Circus>에서 따온 것이다.
+
+여기서 Monty Python은 영국의 코미디 그룹을 의미하며 <Monty Python's Flying Circus>는 Monty Python's - 시리즈의 대표작 중 하나이다. 
+
+그룹명의 유래는 다음과 같다고 한다.
+
+```
+One of the group (Terry Jones I think) liked the name "Monty" because he felt it sounded seedy. "Python" was added on at random because they liked the sound. These ideas were then combined into the final name.
+```
+
+결국 Monty가 seedy(초라한, 너덜너덜한, 지저분한)하고 Python이란 단어의 발음이 좋아 Monty Python이란 그룹명이 탄생한 것이다.
+
+사전에 의하면,
+
+```
+그리스 신화에서 'Apollo가 Delphi에서 퇴치한 거대한 뱀'인 **피톤**불리는 뱀
+```
+
+으로 나오는데, 현재는 비단뱀, 비단구렁이, 거대한 구렁이 등의 뜻을 가지고 있다.
+
+하지만, 이것은 직접적으로 명명된 이유가 아니다.
