@@ -11,18 +11,18 @@ categories: Spring
 When it has just one parameter.
 ```java
 @RequestMapping(value = "/.../{userId}", method=RequestMethod.GET)
-	public ModelAndView myprofilePage(..., @PathVariable String userId) {
-		...
-		return mv;
-	}
+public ModelAndView myprofilePage(..., @PathVariable String userId) {
+	...
+	return mv;
+}
 ```
 
 When it has more than one parameter.
 ```java
 @RequestMapping(value = "/.../{userId}/{pageNum}", method=RequestMethod.GET)
-	public ModelAndView myprofilePage(..., @PathVariable String userId, @PathVariable long pageNum) {
-		...
-		return mv;
-	}
+public ModelAndView myprofilePage(..., @PathVariable String userId, @PathVariable long pageNum) {
+	...
+	return mv;
+}
 ```
 
