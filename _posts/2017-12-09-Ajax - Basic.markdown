@@ -3,7 +3,7 @@ layout: post
 title:  Ajax - Basic
 date:   2017-12-09 12:19:00
 author: C-an
-categories: Jekyll
+categories: Ajax
 ---
 
 <!-- Contents -->
