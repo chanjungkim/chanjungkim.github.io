@@ -47,10 +47,11 @@ You can recieve the parameters like this. Using Gson is nice to return an Object
 ```java
 @RequestMapping(value = "/write.do", method=RequestMethod.POST)
 public void writePost(..., String userId) {
+	MemberVo member = serivce.getMemberInfo(userId);
     try {
         writer = response.getWriter();
         Gson gson = new Gson();
-   	 writer.print(gson.toJson(leftArticleNum));
+   	 writer.print(gson.toJson(member));
     } catch (IOException e) {
         // TODO Auto-generated catch block
         e.printStackTrace();
