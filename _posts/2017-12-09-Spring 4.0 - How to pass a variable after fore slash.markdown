@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Spring 4.0 - How to pass a variable after fore slash"
+date:   2017-12-09 11:28:23
+author: C-an
+categories: Spring
+---
+
+<!-- Contents -->
+
+When it has just one parameter.
+```java
+@RequestMapping(value = "/.../{userId}", method=RequestMethod.GET)
+	public ModelAndView myprofilePage(..., @PathVariable String userId) {
+		...
+		return mv;
+	}
+```
+
+When it has more than one parameter.
+```java
+@RequestMapping(value = "/.../{userId}/{pageNum}", method=RequestMethod.GET)
+	public ModelAndView myprofilePage(..., @PathVariable String userId, @PathVariable long pageNum) {
+		...
+		return mv;
+	}
+```
+
