@@ -20,11 +20,11 @@ npm install
 ```
 
 <ol>
-<li>```-g``` means ```global```. You use this option when you install something globally. [express-generator](#express-generator) or [nodemon](#nodemon) is an example of this option.
+<li><b>-g</b> means <b>global</b>. You use this option when you install something globally. [express-generator](#express-generator) or [nodemon](#nodemon) is an example of this option.
 </li>
-<li>```--save``` You will need this when you install some module into the project you are currently working on. After applying this command, ```package.json``` file in your project will have the new module name and its version.
+<li><b>--save</b> You will need this when you install some module into the project you are currently working on. After applying this command, <b>package.json</b> file in your project will have the new module name and its version.
 </li>
-<li>You use ```npm install``` when you want to install the modules which is described in ```package.json``` at once. You can install easily if you have ```package.json```.
+<li>You use <b>npm install</b> when you want to install the modules which is described in <b>package.json</b> at once. You can install easily if you have <b>package.json</b>.
 </li>
 </ol>
 
@@ -44,6 +44,6 @@ If you want to close the program, you can use ```CTRL+C```. Then, it will close 
 
 #### Appendix ####
 <ul>
-<li id="express-generator"><b>express-generator</b> is express templet creation module which can be used for all projects, not only for a sepecific project. You can install it with ```npm install express-generator -g```</li>
-<li id="nodemon"><b>nodemon</b> opens node project automatically whenever something has been chanegd. You can install it with ```npm install nodemon -g```</li>
+<li id="express-generator"><b>express-generator</b> is express templet creation module which can be used for all projects, not only for a sepecific project. You can install it with <b>npm install express-generator -g</b></li>
+<li id="nodemon"><b>nodemon</b> opens node project automatically whenever something has been chanegd. You can install it with <b>npm install nodemon -g</b></li>
 </ul>
