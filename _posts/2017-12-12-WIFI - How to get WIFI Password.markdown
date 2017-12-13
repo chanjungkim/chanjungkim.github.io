@@ -8,9 +8,9 @@ categories: WIFI
 
 <!-- Contents -->
 
-It works on the Wifi that you already has been accessed before. 
+It works on the Wifi that you already has been accessed before.
 1. open terminal or command(cmd)
 
-2. type *** netsh wlan show profiles ***
+2. type **netsh wlan show profiles**
 3. netsh wlan show profiles WIFI_NAME key=clear
 4. 'Key Content' property is the one you want to find in the list.
