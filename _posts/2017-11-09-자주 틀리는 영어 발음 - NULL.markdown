@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "자주 틀리는 영어 발음 - NULL"
+date:   2017-11-09 16:35:59
+author: C-an
+categories: English_Pronunciation
+---
+
+**null [널]**
+
+<iframe width="150" height="150" src="https://www.youtube.com/embed/GB-QM4yYfCc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+날(O) 눌(독일식, O)
