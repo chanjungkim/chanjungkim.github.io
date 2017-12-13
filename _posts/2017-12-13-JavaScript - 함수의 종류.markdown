@@ -6,20 +6,20 @@ author: C-an
 categories: JavaScript
 ---
 
-####1. 선언적 함수####
-#####-1#####
+#### 1. 선언적 함수 ####
+##### -1 #####
 ```javascript
 function show(){
 	...
 }
 ```
-#####-2#####
+##### -2 #####
 ```javascript
 var show = function show(){
 	...
 }
 ```
-####2. 익명 함수####
+#### 2. 익명 함수 ####
 ```javascript
 var show = function (){
 	...
