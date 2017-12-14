@@ -120,6 +120,10 @@
   visibility:none;
 }
 
+.footprint-menu-text{
+  padding: 0px;
+}
+
 @media (max-width:767px) {
 
 .wrapper {
