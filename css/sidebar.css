@@ -117,7 +117,7 @@
 }
 
 .post-header, .page-divider{
-  visibility:none;
+  visibility:hidden;
 }
 
 .footprint-menu-text{
