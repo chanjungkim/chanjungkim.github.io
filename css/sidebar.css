@@ -116,7 +116,8 @@
 @media (max-width:767px) {
 
 #wrapper {
-  padding-left: 0;
+  padding-left: 250px;
+  margin:0px;
 }
 
 #sidebar-wrapper {
@@ -140,8 +141,6 @@
 
 .inset {
   padding: 15px;
-}
-
 }
 
 .footprint-menu-text{
