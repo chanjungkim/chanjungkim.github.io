@@ -9,13 +9,13 @@ permalink: /about/
 Graduated on Feb 2017. Currently seeking for an Android Development position in Korea or out of Korea.
 
 Langauge
-● Java
-● HTML/CSS
-● jQuery
-● SQL
+* Java
+* HTML/CSS
+* jQuery
+* SQL
 
 Experienced
-● Swing, Spring, Android
+* Swing, Spring, Android
 
 I like learning to widen my view and to become wiser and try to enjoy work that challenges me. 
 
