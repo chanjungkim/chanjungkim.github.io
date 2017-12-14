@@ -25,4 +25,4 @@ $(function(){
 	$(".footprint-menu-text").attr("style", "margin:0px; padding:0px;");
 	$(".post-header").remove();
 	$(".page-divider").remove();
-}
+})
