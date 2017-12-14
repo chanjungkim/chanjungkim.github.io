@@ -21,8 +21,9 @@ $(function(){
             }
         }
     });
+	
 	$(".wrapper").attr("style", "margin:0px; padding-left:250px;");
 	$(".footprint-menu-text").attr("style", "margin:0px; padding:0px;");
 	$(".post-header").remove();
 	$(".page-divider").remove();
-});
+})
