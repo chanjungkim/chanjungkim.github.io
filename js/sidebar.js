@@ -22,7 +22,7 @@ $(function(){
         }
     });
 	
-	$(".wrapper").attr("style", "margin:0px; padding-left:250px;");
+	$(".page-content .wrapper").attr("style", "max-width:75em; margin-left:20em;");
 	$(".footprint-menu-text").attr("style", "margin:0px; padding:0px;");
 	$(".post-header").remove();
 	$(".page-divider").remove();
