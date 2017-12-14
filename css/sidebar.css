@@ -87,7 +87,10 @@
   background: none;
 }
 
-
+.wrapper{
+  margin:0px;
+  padding-left:250px;
+}
 
 .content-header {
   height: 65px;
