@@ -6,6 +6,9 @@ permalink: /footprint/
 <!DOCTYPE html>
 <head>
 	<title></title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.bundle.min.js" integrity="sha384-3ziFidFTgxJXHMDttyPJKDuTlmxJlwbSkojudK/CkRqKDOmeSbN6KLrGdrBQnT2n" crossorigin="anonymous"></script>
 	<style>
 body {
     background: #f0f0f0;
@@ -70,8 +73,9 @@ section {
     border-left:5px solid #8e44ad;
 }
 	</style>
+
 	<script>
-		$(document).ready(function(){
+	$(document).ready(function(){
     $('.awesome-tooltip').tooltip({
         placement: 'left'
     });   
@@ -130,11 +134,10 @@ section {
 
 /* end dot nav */
 });
-
 	</script>
 </head>
 <body>
-<div data-spy="affix" id="dot-nav">
+    <div data-spy="affix" id="dot-nav">
     	<ul>
 	      <li class="awesome-tooltip active" title="Home"><a href="#home"></a></li>
 	      <li class="awesome-tooltip" title="About"><a href="#about"></a></li>
