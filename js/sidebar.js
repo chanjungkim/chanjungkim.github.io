@@ -1,4 +1,4 @@
-/*Menu-toggle*/
+$(function(){
     $("#menu-toggle").click(function(e) {
         e.preventDefault();
         $("#wrapper").toggleClass("active");
@@ -21,3 +21,8 @@
             }
         }
     });
+	$(".wrapper").attr("style", "margin:0px; padding-left:250px;");
+	$(".footprint-menu-text").attr("style", "margin:0px; padding:0px;");
+	$(".post-header").attr("style", "visibility:hidden;");
+	$(".page-divider").attr("style", "visibility:hidden;");
+}
