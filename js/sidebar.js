@@ -4,9 +4,6 @@ $(function(){
         $("#wrapper").toggleClass("active");
     });
 
-    /*Scroll Spy*/
-    $('body').scrollspy({ target: '#spy', offset:80});
-
     /*Smooth link animation*/
     $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
@@ -21,9 +18,4 @@ $(function(){
             }
         }
     });
-	
-	$(".page-content .wrapper").attr("style", "max-width:75em; margin-left:20em;");
-	$(".footprint-menu-text").attr("style", "margin:0px; padding:0px;");
-	$(".post-header").remove();
-	$(".page-divider").remove();
 })
