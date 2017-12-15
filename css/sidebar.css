@@ -8,7 +8,7 @@
   left: 250px;
   width: 250px;
   background: #000;
-  position: sticky;
+  position: fixed;
   height: 100%;
   overflow-y: auto;
   z-index: 1000;
@@ -27,7 +27,9 @@
   width: 100%;
 }
 
-
+.navigation *{
+  position: sticky;
+}
 
 .sidebar-nav {
   position: absolute;
