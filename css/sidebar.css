@@ -27,10 +27,6 @@
   width: 100%;
 }
 
-.navigation *{
-  position: fixed;
-}
-
 .sidebar-nav {
   position: absolute;
   top: 0;
@@ -87,11 +83,6 @@
   color: #fff;
   background: none;
 }
-
-.wrapper {
-  margin:0px;
-}
-
 
 .content-header {
   height: 65px;
@@ -157,8 +148,4 @@
 
 .footprint-menu-text{
   padding: 0px;
-}
-
-.post-header, .page-divider{
-  visibility:hidden;
 }
