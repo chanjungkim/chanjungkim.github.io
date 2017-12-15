@@ -28,7 +28,7 @@
 }
 
 .navigation *{
-  position: sticky;
+  position: fixed;
 }
 
 .sidebar-nav {
