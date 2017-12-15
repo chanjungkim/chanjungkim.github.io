@@ -8,7 +8,7 @@
   left: 250px;
   width: 250px;
   background: #000;
-  position: fixed;
+  position: sticky;
   height: 100%;
   overflow-y: auto;
   z-index: 1000;
