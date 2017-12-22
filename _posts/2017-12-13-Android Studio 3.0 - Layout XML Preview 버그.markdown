@@ -3,7 +3,7 @@ layout: post
 title: "Layout XML Preview 버그"
 date:   2017-12-12 11:04:00
 author: C-an
-categories: Android Studio 3.0
+categories: Android_Studio_3.0
 ---
 
 안드로이드 3.0버전에서 한글 깨짐 문제가 개선이 되어 따로 수정하지 않아도 한글이 나온다.
