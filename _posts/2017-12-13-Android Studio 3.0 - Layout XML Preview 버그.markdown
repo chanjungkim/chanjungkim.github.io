@@ -3,7 +3,7 @@ layout: post
 title: "Layout XML Preview 버그"
 date:   2017-12-12 11:04:00
 author: C-an
-categories: Android Studio 3.0
+categories: Android_Studio_3.0
 ---
 
 ##1 한글 에러##
