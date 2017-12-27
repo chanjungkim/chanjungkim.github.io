@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android Studio 3.0 - Toast Message"
+title:  "Android Studio 3.0 - Log ³²±â±â"
 date:   2017-12-26 15:01:00
 author: C-an
 categories: Android_Studio_3.0
