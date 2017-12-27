@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title:  "Android Studio 3.0 - cancel()"
 date:   2017-12-27 09:26:00
@@ -14,4 +14,4 @@ final Dialog custom = new Dialog(this);
 custom.cancel();
 ```
 
-cancel()À» »ç¿ëÇÏ±â À§ÇØ¼­´Â final ¼±¾ğÀ» ÇØÁà¾ßÇÑ´Ù.
+cancel()ì„ ì‚¬ìš©í•˜ê¸° ìœ„í•´ì„œëŠ” final ì„ ì–¸ì„ í•´ì¤˜ì•¼í•œë‹¤.
