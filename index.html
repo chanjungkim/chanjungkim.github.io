@@ -4,14 +4,7 @@ layout: default
 <div class="home">
 	test 15
 	<a href="weixin://">위챗</a>
-	<a onclick="javascript:window.location.href='weixin://dl/officialaccounts'">Official Account</a><br>
-	<a onclick="javascript:window.location.href='weixin://dl/profile/hatch1336'">Profile</a><br>
-	<a onclick="javascript:window.location.href='weixin://dl/scan'">Scan</a><br>
-	<a onclick="javascript:window.location.href='weixin://scanqrcode'">Scanqrcode</a><br>
-	<a href="weixin://qr/zC5LU6rEW-ckre4w93ve">OA QR code URL</a><br>
-	<a href="weixin://dl/scanqrcode">dl/Scanqrcode</a><br>
-	<a href="weixin://dl/officialaccounts">Official Account With ID</a><br>
-	<a href="weixin://__biz/MzU4MDkyNTcyMg">위챗 테스트 6</a>
+	<button id="scanQRCode0">Scanner</button><br>
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
@@ -92,7 +85,9 @@ layout: default
 </nav>
 </div>
 </div>
-
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 <script>
-
+  document.querySelector('#scanQRCode0').onclick = function () {
+    wx.scanQRCode();
+  };
 </script>
