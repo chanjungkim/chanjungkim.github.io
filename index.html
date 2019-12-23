@@ -88,6 +88,11 @@ layout: default
 <script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 <script>
   document.querySelector('#scanQRCode0').onclick = function () {
-    wx.scanQRCode();
+		try{
+			wx.scanQRCode();
+		}catch(e){
+			alert(e);
+		}
+		alert("done!");
   };
 </script>
