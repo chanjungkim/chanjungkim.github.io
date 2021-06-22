@@ -1,21 +1,6 @@
 ---
 layout: default
 ---
-<script>
-	navigator.permissions.query({name: 'microphone'})
-	 .then((permissionObj) => {
-		console.log(permissionObj.state);
-		}).catch((error) => {
-		console.log('Got error :', error);
-	})
-
-	navigator.permissions.query({name: 'camera'})
- 		.then((permissionObj) => {
-  		console.log(permissionObj.state);
-	}).catch((error) => {
-		console.log('Got error :', error);
-	})
-</script>
 <div class="home">
 	<a onclick="javascript:window.location.href='weixin://dl/profile/hatch1336'">Profile</a><br>
 	<a onclick="javascript:window.location.href='weixin://dl/scan'">Scan</a><br>
@@ -150,4 +135,29 @@ layout: default
 		}
 		alert("done!");
   };
+	
+	
+<script>
+	navigator.permissions.query({name: 'microphone'})
+	 .then((permissionObj) => {
+		console.log(permissionObj.state);
+		}).catch((error) => {
+		console.log('Got error :', error);
+	})
+
+	navigator.permissions.query({name: 'camera'})
+ 		.then((permissionObj) => {
+  		console.log(permissionObj.state);
+	}).catch((error) => {
+		console.log('Got error :', error);
+	})
+	
+	navigator.mediaDevices.getUserMedia({ audio: true })
+      .then(function(stream) {
+        console.log('You let me use your mic!')
+      })
+      .catch(function(err) {
+        console.log('No mic for you!')
+      });
+</script>
 </script>
