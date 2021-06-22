@@ -166,4 +166,16 @@ layout: default
     }).catch( err => {
         console.log("u got an error:" + err)
     });
+	
+	function initAudio() {
+    if (!navigator.webkitGetUserMedia)
+        return(alert("Error: getUserMedia not supported!"));
+
+    navigator.webkitGetUserMedia({audio:true}, gotStream, function(e) {
+            alert('Error getting audio');
+            console.log(e);
+        });
+}
+
+window.addEventListener('load', initAudio );
 </script>
