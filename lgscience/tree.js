@@ -14,10 +14,16 @@ var trunkTaper = 0.9;
 var border = 0;
 var angleMod = 0;
 var angles = [];
+let scaleFactor;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   frameRate(60);
+
+  // 기준 해상도 대비 스케일 (ex: 1080p 기준)
+  scaleFactor = min(windowWidth / 1920, windowHeight / 1080);
+  maxTrunkWidth = 60 * scaleFactor;
+
   newGrassColour = color(200, 255, 200);
   grassColour = color(100, 150, 50);
   stemColour = color(150, 100, 50);
@@ -77,8 +83,10 @@ class Node {
     this.angle = angle;
     this.stemChance = stemChance;
     this.pos = parent.pos.copy();
-    this.length = 10;
-    this.width = 4;
+    
+    this.length = 10 * scaleFactor;
+    this.width = 4 * scaleFactor;
+
     this.hasSplit = false;
   }
   update() {}
@@ -97,7 +105,7 @@ class Leaf extends Node {
   }
   update(ang) {
     // this.length = min(10, this.length + 1 / this.length);
-    this.length = lerp(this.length, 10, 0.01);
+    this.length = lerp(this.length, 10 * scaleFactor, 0.01);
     this.width = this.length * 0.8;
     this.pos = this.parent.pos.copy().add(
       createVector(1, 1)
@@ -122,7 +130,7 @@ class Stem extends Node {
     );
   }
   update(ang) {
-    this.length = min(this.length + random(0.75, 1.25) / this.length, 60);
+    this.length = min(this.length + random(0.75, 1.25) * scaleFactor / this.length, 60);
     this.width = min(
       this.parent.width * trunkTaper,
       this.width + 1 / (this.width * 50)
