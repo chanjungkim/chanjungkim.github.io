@@ -77,8 +77,8 @@ class Node {
     this.angle = angle;
     this.stemChance = stemChance;
     this.pos = parent.pos.copy();
-    this.length = 1;
-    this.width = 1;
+    this.length = 10;
+    this.width = 4;
     this.hasSplit = false;
   }
   update() {}
