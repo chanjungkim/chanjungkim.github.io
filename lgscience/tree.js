@@ -23,7 +23,7 @@ function setup() {
   stemColour = color(150, 100, 50);
   p1 = new Plant(400 * random(0.2, 0.5), height);
   p2 = new Plant(400 * random(0.5, 0.8), height);
-  p3 = new Plant(400 * 0.75, height);
+  p3 = new Plant(width / 2, height);
   for (var i = 0; i < PI * 2; i += 0.05) {
     angles.unshift(sin(i) * 0.02);
   }
