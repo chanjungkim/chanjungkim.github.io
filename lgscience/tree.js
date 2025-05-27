@@ -37,7 +37,7 @@ function draw() {
   fill(220);
   border += 0.015;
   border = min(border, 400 / 3);
-  rect(border, border, 400 - border * 2, 400 - border);
+  // rect(border, border, 400 - border * 2, 400 - border);
   // p1.update();
   // p1.draw();
   // p2.update();
