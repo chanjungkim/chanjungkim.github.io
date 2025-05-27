@@ -16,7 +16,7 @@ var angleMod = 0;
 var angles = [];
 
 function setup() {
-  createCanvas(displayWidth, 400);
+  createCanvas(windowWidth, windowHeight);
   frameRate(60);
   newGrassColour = color(200, 255, 200);
   grassColour = color(100, 150, 50);
